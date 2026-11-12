@@ -1,0 +1,13 @@
+name = "All the Mods 10 - ATM10"
+filename = "All-the-Mods-10-8.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b27b7b6e7eb9b1477802486f5703ea44e0dba399"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9431424
+project-id = 925200

@@ -1,0 +1,13 @@
+name = "Alex's Mobs Neo"
+filename = "alexsmobs-1.22.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b548537a20362d8849c4a510082af37dd0cd0bde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8890602
+project-id = 1613387

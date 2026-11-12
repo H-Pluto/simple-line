@@ -1,0 +1,13 @@
+name = "Caps | 连锁采集"
+filename = "caps-.1.21.0.1.21.1.-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOj41dSK/versions/IT2HP8cU/caps-.1.21.0.1.21.1.-0.2.0.jar"
+hash-format = "sha512"
+hash = "9525c5db6fb857f33740a3e810a2d1df3c303b10e16980b58a036947cc6f6e2fc65a1ebf401637505cc26d44d0786c1623257bb7418bfa361ba2beb2ec6bb5c1"
+
+[update]
+[update.modrinth]
+mod-id = "VOj41dSK"
+version = "IT2HP8cU"

@@ -1,0 +1,13 @@
+name = "Apothic Spawners BDCraft"
+filename = "[512x - 32x] Apothic Spawners BDCraft - 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d2480f435e5b464d4c648830cdcbef6e482ce5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7462687
+project-id = 1430304

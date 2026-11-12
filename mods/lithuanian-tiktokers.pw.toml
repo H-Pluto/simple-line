@@ -1,0 +1,13 @@
+name = "Lithuanian Tiktokers (horror)(scary)"
+filename = "lt_tiktoker-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41e93856d0c56000dff5d2f6099e0fdd75c8e16f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6199197
+project-id = 1199532

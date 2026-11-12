@@ -1,0 +1,13 @@
+name = "New:Sim-U-Kraft"
+filename = "New-Sim-U-Kraft-2.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/70LWU0bA/versions/sQTfF8mn/New-Sim-U-Kraft-2.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0c197c16ffc332cbae42530c44cc38a5a57ee210da5b2a0e4cc7944262111701f100f9fd2fd135c7fb870eb2fa6d6bd51e47d664336351bd45e5b274d0a384f2"
+
+[update]
+[update.modrinth]
+mod-id = "70LWU0bA"
+version = "sQTfF8mn"

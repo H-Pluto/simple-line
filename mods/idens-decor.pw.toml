@@ -1,0 +1,13 @@
+name = "Iden's Decor"
+filename = "iden_decor-beta-3.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5e09b4aea8b9b4e8d14f6908c05e58396716bb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9512131
+project-id = 1451671

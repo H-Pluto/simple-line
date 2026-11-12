@@ -1,0 +1,13 @@
+name = "Rock's Lib"
+filename = "rocks_lib-1.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f57d8e13f399825698fe543868eed110f99b6ebe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6995155
+project-id = 1185503

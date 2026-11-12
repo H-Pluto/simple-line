@@ -1,0 +1,13 @@
+name = "Excalibur | Traveler’s Backpack"
+filename = "Excalibur Traveler's Backpack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jNaBm42U/versions/5R0IUKrd/Excalibur%20Traveler%27s%20Backpack.zip"
+hash-format = "sha512"
+hash = "6558361a3d5387fe2dfc25e176d56294f27741e7069fb27026bb389e8ca8de1094588a2a0064909eccdc60dc7f50450766c0ec922cc9c7185454b5c17029cbe1"
+
+[update]
+[update.modrinth]
+mod-id = "jNaBm42U"
+version = "5R0IUKrd"
