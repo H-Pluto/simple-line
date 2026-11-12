@@ -124,11 +124,6 @@ hash = "50f0fe22bec82ed6336a259931394271a1ebb71bb77e682ee233d96134305ccd"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -156,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
 hash = "5ac05246c3e520770e9b981040ec45c349177961a7bddcc46c779e510680b047"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "1543c1f710aed60d805ccbf14378b99a6e5cf9cbbf349139e94ae84fc296aefb"
 metafile = true
 
 [[files]]
@@ -329,11 +319,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithuanian-tiktokers.pw.toml"
-hash = "d1f0b641c178d01be8acf8584ca2b1e44f1f06cd543642f197cddc61ee0eafb8"
-metafile = true
-
-[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "020a6c2f0477854694235c47d0743a7d9b46a9f81819ba78aa32a0743abfaacd"
 metafile = true
@@ -346,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "9df145eb4d59032b754eb0f3441261316ccdf718de56ad89029bf36b6f48a8c8"
-metafile = true
-
-[[files]]
-file = "mods/mo-creatures-reborn-neoforge.pw.toml"
-hash = "98b95e3bd89afbde52170963bda754c3572b0a3d73421e35075002a4a0c21851"
 metafile = true
 
 [[files]]
@@ -376,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/new-sim-u-kraft.pw.toml"
 hash = "67df418bf2d1b40958289645c2298003e5d4420345ed00b3627a76f3e9c22d14"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "15a416bd94c832989f0341b93fc88fb3947285c954c767c4c4f9952e33659ccb"
 metafile = true
 
 [[files]]
@@ -426,16 +401,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
-metafile = true
-
-[[files]]
-file = "mods/rice-delight.pw.toml"
-hash = "646053257d218e66a1d869c358e60f89f090e73e73f7b8d4dc99efa39da6b50a"
-metafile = true
-
-[[files]]
-file = "mods/rocks-lib.pw.toml"
-hash = "9ecf354797fa485f0a887cff2d4773aebdb5469220b1a4c021c3eb7ce9bc273b"
 metafile = true
 
 [[files]]
@@ -515,12 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
+hash = "aba95d9a82a7cedda4c0ce936ead9c764d0ffbc10483f0648d022213df7bb703"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
+hash = "f4bc20e3483a7a935b9ee674227aad73d24ecc4ea93e6c2d99955927a2197b20"
 metafile = true
 
 [[files]]
