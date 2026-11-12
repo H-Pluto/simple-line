@@ -79,11 +79,6 @@ hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "2b75c579e6dec00700a1a8407769020370b9ba11d52bacd0ea893d564d91b965"
-metafile = true
-
-[[files]]
 file = "mods/caps.pw.toml"
 hash = "157f524ab660f00672e3c904ca8754d4754b5025b974bd239e6c8c25ccef58ea"
 metafile = true
